@@ -22,17 +22,17 @@ And you also need `deepin-menu` from [http://mirrors.deepin.com/deepin/pool/main
 
 Below is keymap list for deepin-terminal:
 
-| Function					      | Shortcut                            |
+| 功能					      | 快捷键                            |
 |---------------------------------|---------------------------------------------------------|
-| Copy                            | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>c</kbd>       |
-| Paste                           | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>v</kbd>       |
-| Select word                     | Double <kbd>click</kbd>                                 |
-| Open URL                        | <kbd>Ctrl</kbd> + <kbd>LeftButton</kbd>                 |
-| Search                          | <kbd>Ctrl</kbd> + <kbd>Shfit</kbd> + <kbd>f</kbd>       |
+| 复制                            | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>c</kbd>       |
+| 粘贴                           | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>v</kbd>       |
+| 选择单词                     | <kbd>双击</kbd>                                 |
+| 打开URL                        | <kbd>Ctrl</kbd> + <kbd>左键</kbd>                 |
+| 搜索                          | <kbd>Ctrl</kbd> + <kbd>Shfit</kbd> + <kbd>f</kbd>       |
 | Zoom in                         | <kbd>Ctrl</kbd> + <kbd>=</kbd>                          |
 | Zoom out                        | <kbd>Ctrl</kbd> + <kbd>-</kbd>                          |
 | Default size                    | <kbd>Ctrl</kbd> + <kbd>0</kbd>                          |
-| Select all                      | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>a</kbd>       |
+| 全选                      | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>a</kbd>       |
 |                                                                                           |
 | New workspace                   | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>t</kbd>       |
 | Close workspace                 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>w</kbd>       |
@@ -45,24 +45,24 @@ Below is keymap list for deepin-terminal:
 | Select lower window             | <kbd>Alt</kbd>  + <kbd>j</kbd>                          |
 | Select left window              | <kbd>Alt</kbd>  + <kbd>h</kbd>                          |
 | Select right window             | <kbd>Alt</kbd>  + <kbd>l</kbd>                          |
-| Close window                    | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>q</kbd>         |
-| Close other windows             | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>q</kbd>       |
-| Create new theme window         | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>number</kbd>    |
+| 关闭窗口                    | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>q</kbd>         |
+| 关闭其他窗口             | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>q</kbd>       |
+| 创建新的主题窗口         | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>number</kbd>    |
 |                                                                                           |
 | Switch fullscreen               | <kbd>F11</kbd>                                          |
 | Adjust background opacity       | <kbd>Ctrl</kbd> + <kbd>ScrollButton</kbd>               |
 | Display shortcuts               | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>?</kbd>       |
-| Custom commands                 | <kbd>Ctrl</kbd> + <kbd>\[</kbd>                         |
+| 自定义命令                 | <kbd>Ctrl</kbd> + <kbd>\[</kbd>                         |
 | Remote management               | <kbd>Ctrl</kbd> + <kbd>/</kbd>                          |
 
 ## 配置文件
-Terminal's configure save at:
+终端的configure存储于：
 ~/.config/deepin/deepin-terminal/config.conf
 
 Remote servers' configure save at:
 ~/.config/deepin/deepin-terminal/server-config.conf
 
-Customize command's configure save at:
+自定义命令的configure存储于：
 ~/.config/deepin/deepin-terminal/command-config.conf
 
 ## 高级配置
@@ -173,7 +173,6 @@ Any usage issues can ask for help via
 
 We encourage you to report issues and contribute changes
 
-* [Contribution guide for developers](https://github.com/linuxdeepin/developer-center/wiki/Contribution-Guidelines-for-Developers-en). (English)
 * [开发者代码贡献指南](https://github.com/linuxdeepin/developer-center/wiki/Contribution-Guidelines-for-Developers) (中文)
 
 ## 协议
