@@ -1,4 +1,4 @@
-# Deepin Terminal
+# 简终端
 
 This is default terminal emulation application for Deepin.
 
@@ -14,11 +14,11 @@ In debian, use below command to install running dependencies:
 
 And you also need `deepin-menu` from [http://mirrors.deepin.com/deepin/pool/main/d/deepin-menu/](http://mirrors.deepin.com/deepin/pool/main/d/deepin-menu/) .
 
-## Installation
+## 安装
 
 `mkdir build; cd build; cmake ..; make; ./deepin-terminal`
 
-## Usage
+## 用法
 
 Below is keymap list for deepin-terminal:
 
@@ -55,7 +55,7 @@ Below is keymap list for deepin-terminal:
 | Custom commands                 | <kbd>Ctrl</kbd> + <kbd>\[</kbd>                         |
 | Remote management               | <kbd>Ctrl</kbd> + <kbd>/</kbd>                          |
 
-## Config file
+## 配置文件
 Terminal's configure save at:
 ~/.config/deepin/deepin-terminal/config.conf
 
@@ -65,7 +65,7 @@ Remote servers' configure save at:
 Customize command's configure save at:
 ~/.config/deepin/deepin-terminal/command-config.conf
 
-## Advanced config
+## 高级配置
 #### cursor_shape
 Cursor shape type, can set with 'block', 'ibeam', 'underline', default is block type.
 
@@ -139,7 +139,7 @@ this default option is false, because it's too nosing to me.
 Copy select text to system clipboard directly if you turn on this option, i think many XShell users like this. ;) 
 This optoin default is false, because it's linux style. ;)
 
-## Customize search engine
+## 自定义搜索引擎
 Deepin terminal build-in many search engine for engineer, such as Google, Bing, Baidu, GitHub, Stackover Flow, DuckDuckGo.
 Anyway, if you want build your own search engine, just follow below command:
 * Create config file ~/.config/deepin/deepin-terminal/search-engine-config.conf with below content:
@@ -176,6 +176,6 @@ We encourage you to report issues and contribute changes
 * [Contribution guide for developers](https://github.com/linuxdeepin/developer-center/wiki/Contribution-Guidelines-for-Developers-en). (English)
 * [开发者代码贡献指南](https://github.com/linuxdeepin/developer-center/wiki/Contribution-Guidelines-for-Developers) (中文)
 
-## License
+## 协议
 
-Deepin Terminal is licensed under [GPLv3](LICENSE).
+简终端的开源基于[GPLv3](LICENSE)。
