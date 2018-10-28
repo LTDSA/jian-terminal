@@ -56,13 +56,13 @@ Below is keymap list for deepin-terminal:
 | Remote management               | <kbd>Ctrl</kbd> + <kbd>/</kbd>                          |
 
 ## 配置文件
-终端的configure存储于：
+终端的配置存储于：
 ~/.config/deepin/deepin-terminal/config.conf
 
 Remote servers' configure save at:
 ~/.config/deepin/deepin-terminal/server-config.conf
 
-自定义命令的configure存储于：
+自定义命令的配置存储于：
 ~/.config/deepin/deepin-terminal/command-config.conf
 
 ## 高级配置
